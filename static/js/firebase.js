@@ -7,7 +7,7 @@ import { getStorage, ref, uploadBytesResumable, getDownloadURL, deleteObject} fr
 // import config from '../../src/config.js';
 
 const firebaseConfig = {
-    apiKey: "AIzaSyBWeBGKNi57QVDl1NS7MTX8SP-cDPiolVg",
+    apiKey: "",
     authDomain: "eie4432-groupproject.firebaseapp.com",
     projectId: "eie4432-groupproject",
     storageBucket: "eie4432-groupproject.appspot.com",
